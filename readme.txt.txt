@@ -1,0 +1,2 @@
+- Added some hover effects on buttons,links and cards
+- Also added smooth scroll on nav links
